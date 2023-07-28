@@ -14,8 +14,8 @@
 
 :root {
 	--app-bg: url(https://cdn.discordapp.com/attachments/1128624535873277984/1131318240967135232/IMG_2595.png);
-	--app-blur: 6px;
-	--app-margin: 24px;
+	--app-blur: 32px;
+	--app-margin: 6px;
 	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 156;
